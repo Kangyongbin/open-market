@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "다람쥐 아이패드 파우치",
+      "provider": "다람쥐",
+      "price": 32000,
+      "image": "/images/image001.png"
+    },
+    {
+      "id": 2,
+      "name": "세차타월",
+      "provider": "빛나는하루",
+      "price": 19900,
+      "image": "/images/image002.png"
+    }
+  ]
+}
